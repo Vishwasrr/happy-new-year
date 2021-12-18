@@ -1,0 +1,20 @@
+
+.top {
+    height: 60px;
+    background-color: blue;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color: blue;
+    height: 60px;
+    background-color: white;
+}
+
+.bottom {
+    height: 60px;
+    background-color: red;
+}
